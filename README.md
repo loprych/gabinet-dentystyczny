@@ -1,2 +1,3 @@
 # gabinet-dentystyczny
-Website for completing Software Engineering classes at AGH UST
+# Website for completing Software Engineering classes at AGH UST
+
